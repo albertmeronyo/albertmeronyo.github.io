@@ -1,28 +1,30 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
-title: people
-description: members of the lab or group
+title: People
+description: Members of the KCL Knowledge Graphs Lab under my supervision
 nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+## Current members
+
+Ioannis Reklos | Chiara di Bonaventura | Michelle Nwachukwu | Katharine Sparks
+--|--|--|--
+PhD student | PhD student | PhD student | PhD student 
+
+Bohui Zhang | Yihang Zhao | Arunav Das | Maayan Armony
+--|--|--|--
+PhD student | PhD student | PhD student | PhD student 
+
+Shuyin Ouyang |
+-- |
+PhD student |
+
+---
+
+## Previous members
+
+Xin Fan Guo | Nitisha Jain | Jongmo Kim  | Jacopo de Berardinis | Elisavet Koutsiana | David Abián | Ruud Skipper
+--|--|--|--|--
+PhD student (now at Imperial College London) | Research Associate (now a LASR Fellow) | Research Associate | Research Associate (now Lecturer at University of Liverpool) | PhD student (now at EY Greece) | PhD student | PhD student 
