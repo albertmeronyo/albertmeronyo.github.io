@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 3
 ---
@@ -33,7 +33,7 @@ nav_order: 3
 
 ## Project Participation
 
-As a postdoctoral researcher I was involved in [CLARIAH](http://www.clariah.nl/en/), a Dutch Science Foundation ([NWO](http://www.nwo.nl/)) project that aims at building a distributed infrastructure for the humanities and social sciences. I completed my PhD in 2016, with the thesis *Refining Statistical Data on the Web*, under the supervision of [Frank van Harmelen](http://www.cs.vu.nl/~frankh/), [Stefan Schlobach](http://www.few.vu.nl/~schlobac) and [Andrea Scharnhorst](http://www.ehumanities.nl/andrea-scharnhorst/) ([browse it](http://dare.ubvu.vu.nl/bitstream/handle/1871/54331/complete_dissertation.pdf?sequence=1&isAllowed=y), or [order a printed copy](https://www.amazon.co.uk/Refining-Statistical-Albert-Mero%C3%B1o-Pe%C3%B1uela/dp/1530412331/)). I had unconditional support from [Data Archiving and Networked Services](http://www.dans.knaw.nl) and the [eHumanities Group](http://www.ehumanities.nl) of the [Royal Netherlands Academy of Arts and Sciences](http://www.knaw.nl) (KNAW). Until 2011, I developed semantic-based tools to support legal decision making at the [Institute of Law and Technology](http://idt.uab.es).
+As a postdoctoral researcher I was involved in [CLARIAH](http://www.clariah.nl/en/), a Dutch Science Foundation ([NWO](http://www.nwo.nl/)) project that aims at building a distributed infrastructure for the humanities and social sciences. I completed my PhD in 2016, with the thesis _Refining Statistical Data on the Web_, under the supervision of [Frank van Harmelen](http://www.cs.vu.nl/~frankh/), [Stefan Schlobach](http://www.few.vu.nl/~schlobac) and [Andrea Scharnhorst](http://www.ehumanities.nl/andrea-scharnhorst/) ([browse it](http://dare.ubvu.vu.nl/bitstream/handle/1871/54331/complete_dissertation.pdf?sequence=1&isAllowed=y), or [order a printed copy](https://www.amazon.co.uk/Refining-Statistical-Albert-Mero%C3%B1o-Pe%C3%B1uela/dp/1530412331/)). I had unconditional support from [Data Archiving and Networked Services](http://www.dans.knaw.nl) and the [eHumanities Group](http://www.ehumanities.nl) of the [Royal Netherlands Academy of Arts and Sciences](http://www.knaw.nl) (KNAW). Until 2011, I developed semantic-based tools to support legal decision making at the [Institute of Law and Technology](http://idt.uab.es).
 
 Over the years, I have participated in various publicly funded research projects:
 

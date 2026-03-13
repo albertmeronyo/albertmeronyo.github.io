@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Walter Isaacson Lecture: \"The Intersection of the Humanities and the Sciences\""
+title: 'Walter Isaacson Lecture: "The Intersection of the Humanities and the Sciences"'
 date: 2018-08-06 10:43:39
 description: "As one of the goals of the blog is to collect relevant links to articles at the intersection of science and the humanities, I thought I'd start the task with the enlightening 2014 Jefferson Lecturer article by Walter Isaacson, published at NEH (National Endowment for the Humanities)."
 tags: reading walter-isaacson

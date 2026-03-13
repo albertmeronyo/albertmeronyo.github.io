@@ -11,7 +11,7 @@ Along with all the e-Humanities Group projects, the CEDAR project is going to be
 
 ![eHg logo-colorcorrected-4print](https://mail.google.com/mail/u/0/?ui=2&ik=90aaa1be97&view=att&th=138007a8c381e9e5&attid=0.1&disp=emb&zw&atsh=1)
 
-Special e-Humanities Group Research Meeting (New Trends in e-Humanities): 13.30- 17.30, 7 June 2012. 
+Special e-Humanities Group Research Meeting (New Trends in e-Humanities): 13.30- 17.30, 7 June 2012.
 
 **Mini- symposium Computational Humanities**
 

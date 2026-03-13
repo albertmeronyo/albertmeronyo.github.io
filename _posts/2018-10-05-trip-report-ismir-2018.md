@@ -53,18 +53,18 @@ On this part though the big spot was for [Rebecca Fiebrink](https://twitter.com/
 
 Overall, ISMIR 2018 was my first ever experience with the MIR community and I learned a great deal, not just about Music Information Retrieval, but about how AI is quickly deploying in applied domains and its consequences (an active topic of discussion in our recently approved [DARIAH working group on AI and Music](https://www.dariah.eu/activities/working-groups/artificial-intelligence-and-music-aim/)); and how music and computing s an extraordinarily passionate way of doing science. Hope to repeat for years to come!
 
-Random notes: 
+Random notes:
 
-  * All presentations are assumed to contain some music or audio -- well prepared equipment!
-  * Lots of dataset presentations with annotations to foster reusability and new research -- similar to [resources track in ISWC](http://iswc2018.semanticweb.org/call-for-resources-track-papers/)
-  * Links everywhere in all presentations -- most had a link to GitHub
-  * Having an unconference within the conference is cool -- [having it well attended is even cooler](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180925_212712.jpg)
-  * [Digital Musicology Study Group meeting](https://pbs.twimg.com/media/DoBDM6mX0AAIzvx.jpg)
-  * In discussions, people use the expression "X is solved" a lot (most of the times X isn't really solved, but helps at keeping track of the goal)
-  * The Dark Side is strong [with this one](https://youtu.be/LMKAnJ21738)
-  * My reductionism of the day: in MIR you're either an "engineer" or a "musicologist"
-  * Deep [ontological discussions](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180928_131108.jpg) going on
-  * Food in Paris can be [hard](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180926_090229-e1538746222612.jpg)
-  * [Skipgrams on notation are cool](http://ismir2018.ircam.fr/doc/pdfs/202_Paper.pdf)
-  * [MIR researchers know their gear](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180926_104734-e1538744285858.jpg); yes [they do](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180925_170732.jpg)
-  * And they know how to use it [on a boat trip over the Seine](https://photos.app.goo.gl/5PSNXyacZwBFAuDs5)
+- All presentations are assumed to contain some music or audio -- well prepared equipment!
+- Lots of dataset presentations with annotations to foster reusability and new research -- similar to [resources track in ISWC](http://iswc2018.semanticweb.org/call-for-resources-track-papers/)
+- Links everywhere in all presentations -- most had a link to GitHub
+- Having an unconference within the conference is cool -- [having it well attended is even cooler](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180925_212712.jpg)
+- [Digital Musicology Study Group meeting](https://pbs.twimg.com/media/DoBDM6mX0AAIzvx.jpg)
+- In discussions, people use the expression "X is solved" a lot (most of the times X isn't really solved, but helps at keeping track of the goal)
+- The Dark Side is strong [with this one](https://youtu.be/LMKAnJ21738)
+- My reductionism of the day: in MIR you're either an "engineer" or a "musicologist"
+- Deep [ontological discussions](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180928_131108.jpg) going on
+- Food in Paris can be [hard](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180926_090229-e1538746222612.jpg)
+- [Skipgrams on notation are cool](http://ismir2018.ircam.fr/doc/pdfs/202_Paper.pdf)
+- [MIR researchers know their gear](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180926_104734-e1538744285858.jpg); yes [they do](https://www.albertmeronyo.org/wp-content/uploads/2018/10/20180925_170732.jpg)
+- And they know how to use it [on a boat trip over the Seine](https://photos.app.goo.gl/5PSNXyacZwBFAuDs5)

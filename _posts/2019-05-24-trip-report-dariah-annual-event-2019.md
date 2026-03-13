@@ -11,7 +11,7 @@ A few days ago I attended the [DARIAH Annual Event 2019](https://dariah-ae-2019.
 
 [Sally Wyatt](https://www.maastrichtuniversity.nl/sally.wyatt), with whom I had the great pleasure to collaborate during my PhD at the [eHumanities Group](https://www.ehumanities.nl/), gave a brilliant keynote on how "data" is too flat a term/ontology to convey the complexity of people, events, and things as objective, scientific and neutral artifacts -- often assuming that all "data" is digital (which is far from reality). I can fully recommend the talk in all its detail, especially when it comes to the words and metaphors we use in data science (they _matter_). My question could only be about the role of ontologies and knowledge graphs to explicitly (and semantically) describe these data, their meaning, and their provenance; but semantics is, often, not enough.
 
-https://twitter.com/umblaetterer/status/1131125724277018625 
+https://twitter.com/umblaetterer/status/1131125724277018625
 
 My next takeaway was the DARIAH Theme Call -- the growing efforts of DARIAH to fund research projects. Even with little resources I had the impression they all delivered greatly. For instance, via hackathons a project in France publishes Linked Data in a SPARQL endpoint --showing great penetration of semantic technologies in this community-- with linked and tagged entities and geo and graph visualizations. Similarly, another project dealt with ethics of postcolonial digital archives. The Community engagement WG published a really nice book on their lessons learned (a booklet PDF is available [here](https://dariahre.hypotheses.org/)). I also really liked the [DARIAH Digital Art, Science and Technology Institution Network](https://www.dariah.eu/2019/04/03/working-groups-stories-8-dariah-digital-art-science-and-technology-institution-network/).
 
@@ -29,16 +29,16 @@ The last chunk of the conference had for me a special importance, since this is 
 
 Lev gave right after the second keynote of the conference (fully recorded below --thanks to the DARIAH shooting crew!) on the differences on treating models and outliers in Data Science and Digital Humanities -- a discussion that reminded me of [long tail phenomena in entity linking](https://www.aclweb.org/anthology/C18-1056). Overall it was an interesting for focusing on diversity and outliers instead of generality and scale.
 
-https://twitter.com/umblaetterer/status/1131104332521377794 
+https://twitter.com/umblaetterer/status/1131104332521377794
 
-https://twitter.com/agiati/status/1129349922082426881?s=19 
+https://twitter.com/agiati/status/1129349922082426881?s=19
 
 This was my first DARIAH Annual Event, and even if I had to skip the first day I had the feeling this is a growing community with both interesting requirements for computer science but also deep intellectual debates around what can be learnt by machines and how predictable and algorithmic art is. Really looking forward to next year's edition!
 
 Random notes:
 
-  * Adeline Joffres showed us the [equivalent of CLARIAH in France](https://www.huma-num.fr/)
-  * Numismatics use 3D and the IIIF protocol (which also uses JSON-LD!) -- annotations still a big use case for Linked Data
-  * A [library](https://twitter.com/dri_ireland/status/1128987896663433216) is always a good idea for a conference venue
-  * [Polish beer](https://photos.app.goo.gl/FLSefc2NCNMBe1dQ9)!
-  * Conference dinner with live classic music -- what a nice idea to have a [string trio play](https://photos.app.goo.gl/BpyfcAmZcWdQcHvb6) right after the Game of Thrones finale :-)
+- Adeline Joffres showed us the [equivalent of CLARIAH in France](https://www.huma-num.fr/)
+- Numismatics use 3D and the IIIF protocol (which also uses JSON-LD!) -- annotations still a big use case for Linked Data
+- A [library](https://twitter.com/dri_ireland/status/1128987896663433216) is always a good idea for a conference venue
+- [Polish beer](https://photos.app.goo.gl/FLSefc2NCNMBe1dQ9)!
+- Conference dinner with live classic music -- what a nice idea to have a [string trio play](https://photos.app.goo.gl/BpyfcAmZcWdQcHvb6) right after the Game of Thrones finale :-)
