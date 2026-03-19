@@ -5,9 +5,12 @@ date: 2013-06-12 15:02:13
 description: "The Open Data on the Web workshop (23 - 24 April 2013, Campus London, Shoreditch) was a great event co-organized by the W3C, the Open Data Institute and the Open Knowledge Foundation."
 tags: cedar ehumanities linked-data open-data report trip-report workshop
 categories: cedar conferences meetings trip-reports workshops
+thumbnail: /assets/img/rufustalk.jpg
 ---
 
-[![rufustalk](http://www.cedar-project.nl/wp-content/uploads/rufustalk.jpg)](http://www.cedar-project.nl/wp-content/uploads/rufustalk.jpg)The [Open Data on the Web](http://www.w3.org/2013/04/odw/) workshop (23 - 24 April 2013, Campus London, Shoreditch) was a great event co-organized by the [W3C](http://www.w3.org/), the [Open Data Institute](http://www.theodi.org/) and the [Open Knowledge Foundation](http://okfn.org/). It attracted substantial interest, leading to two very intensive days of presentations and discussion. The workshop was targeting the wider open data community (rather than just the linked data community), as the [program](http://www.w3.org/2013/04/odw/agenda) reflected. 62 papers were submitted to the workshop, of which 36 were presented (plus 24 other authors participated as panelists or contributors), 3 panels were organized, 3 national governments were represented, 118 attendees were registered and 1898 tweets were sent with the #odw2013 tag.
+[![rufustalk](/assets/img/rufustalk.jpg)](/assets/img/rufustalk.jpg)
+
+The [Open Data on the Web](http://www.w3.org/2013/04/odw/) workshop (23 - 24 April 2013, Campus London, Shoreditch) was a great event co-organized by the [W3C](http://www.w3.org/), the [Open Data Institute](http://www.theodi.org/) and the [Open Knowledge Foundation](http://okfn.org/). It attracted substantial interest, leading to two very intensive days of presentations and discussion. The workshop was targeting the wider open data community (rather than just the linked data community), as the [program](http://www.w3.org/2013/04/odw/agenda) reflected. 62 papers were submitted to the workshop, of which 36 were presented (plus 24 other authors participated as panelists or contributors), 3 panels were organized, 3 national governments were represented, 118 attendees were registered and 1898 tweets were sent with the #odw2013 tag.
 
 A couple of interesting topics configured the agenda: foundations of solid business cases for open data publication, tabular data formats, organizations currently working with (and requesting help on) open linked data, data interoperability, CSV on the web, and product open data, among many others.
 

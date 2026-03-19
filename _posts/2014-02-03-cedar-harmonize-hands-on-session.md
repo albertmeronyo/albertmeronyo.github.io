@@ -5,9 +5,10 @@ date: 2014-02-03 16:53:13
 description: "The 507 census tables contain several dimensions, which correspond to the column and row headers with the properties (gender, marital status, etc.) that the census numbers describe."
 tags: alignment cedar ehumanities harmonize normalization
 categories: cedar demos milestones
+thumbnail: /assets/img/cedar_300x300.jpg
 ---
 
-[![cedar_300x300](http://www.cedar-project.nl/wp-content/uploads/cedar_300x300.jpg)](http://www.cedar-project.nl/wp-content/uploads/cedar_300x300.jpg)
+[![cedar_300x300](/assets/img/cedar_300x300.jpg)](/assets/img/cedar_300x300.jpg)
 
 The 507 census tables contain several dimensions, which correspond to the column and row headers with the properties (gender, marital status, etc.) that the census numbers describe. These dimensions, though, are not coherent between datasets: they can be named differently, and even be defined in non-comparable ranges. One task of harmonization is to add semantics to these dimensions, and align them conveniently.
 

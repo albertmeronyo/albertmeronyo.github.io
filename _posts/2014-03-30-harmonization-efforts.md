@@ -5,6 +5,7 @@ date: 2014-03-30 17:22:30
 description: "Harmonization is a fundamental task in CEDAR to improve census data quality and comparability."
 tags: cedar ehumanities harmonization sparql
 categories: cedar demos milestones
+thumbnail: /assets/img/maps-faq-census_orig_sm.jpg
 ---
 
 Harmonization is a fundamental task in CEDAR to improve census data quality and comparability. A first release (r1) of harmonized census data is available at the SPARQL endpoint

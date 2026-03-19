@@ -5,6 +5,7 @@ date: 2018-08-06 10:43:39
 description: "As one of the goals of the blog is to collect relevant links to articles at the intersection of science and the humanities, I thought I'd start the task with the enlightening 2014 Jefferson Lecturer article by Walter Isaacson, published at NEH (National Endowment for the Humanities)."
 tags: reading walter-isaacson
 categories: links
+thumbnail: /assets/img/Walter_Isaacson_VF_2012_Shankbone_2.jpg
 ---
 
 As one of the goals of the blog is to collect relevant links to articles at the intersection of science and the humanities, I thought I'd start the task with the [enlightening 2014 Jefferson Lecturer article by Walter Isaacson](https://www.neh.gov/about/awards/jefferson-lecture/walter-isaacson-lecture), published at NEH (National Endowment for the Humanities).

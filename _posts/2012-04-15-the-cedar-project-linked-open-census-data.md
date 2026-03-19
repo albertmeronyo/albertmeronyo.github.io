@@ -5,9 +5,13 @@ date: 2012-04-15 13:29:17
 description: "Currently, Europe is confronted with industrial restructuring, migration, an ageing population and financial crisis in a world of accelerated change."
 tags: cedar census ehumanities linked-open-data management
 categories: cedar project-management
+thumbnail: assets/img/cedar_300x300.jpg
 ---
 
-[![cedar_300x300](http://www.cedar-project.nl/wp-content/uploads/cedar_300x300.jpg)](http://www.cedar-project.nl/wp-content/uploads/cedar_300x300.jpg)Currently, Europe is confronted with industrial restructuring, migration, an ageing population and financial crisis in a world of accelerated change. Learning from (social-economic) history helps to understand the inter-relation between macro-economic change and individual lifestyles, policy regimes, labour markets, communities and national wealth. However, sources of historical information about the lives of individuals, communities, and nations are still scattered.
+
+[![cedar_300x300](/assets/img/cedar_300x300.jpg)](/assets/img/cedar_300x300.jpg)
+
+Currently, Europe is confronted with industrial restructuring, migration, an ageing population and financial crisis in a world of accelerated change. Learning from (social-economic) history helps to understand the inter-relation between macro-economic change and individual lifestyles, policy regimes, labour markets, communities and national wealth. However, sources of historical information about the lives of individuals, communities, and nations are still scattered.
 
 This project takes Dutch census data as its starting point to build a semantic data-web of historical information. With such a web, it will be possible to answer questions such as:
 

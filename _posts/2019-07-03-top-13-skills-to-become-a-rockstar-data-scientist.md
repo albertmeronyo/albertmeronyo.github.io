@@ -5,6 +5,7 @@ date: 2019-07-03 10:53:11
 description: "It doesn't contain anything radically new, but this Medium post by Admond Lee contains a rather complete list of skills for modern data science."
 tags: data-science skills
 categories: links
+thumbnail: /assets/img/best-guitarists-1165x900-500x386.jpg
 ---
 
 It doesn't contain anything radically new, but this Medium post by [Admond Lee](https://towardsdatascience.com/@admond1994) contains a rather complete list of skills for modern data science. Doesn't hurt to go through it from time to time.

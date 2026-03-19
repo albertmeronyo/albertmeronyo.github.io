@@ -5,9 +5,10 @@ date: 2014-02-03 16:29:34
 description: "We're pleased to announce the first (alpha) release of the Dutch historical censuses dataset as Linked Data. Point your browsers and applications to the SPARQL endpoint"
 tags: cedar ehumanities endopint release sparql
 categories: cedar demos milestones
+thumbnail: /assets/img/alibobo_w3cSPARQL-logo.png
 ---
 
-[![alibobo_w3cSPARQL-logo](http://www.cedar-project.nl/wp-content/uploads/alibobo_w3cSPARQL-logo.png)](http://www.cedar-project.nl/wp-content/uploads/alibobo_w3cSPARQL-logo.png)
+[![alibobo_w3cSPARQL-logo](/assets/img/alibobo_w3cSPARQL-logo.png)](/assets/img/alibobo_w3cSPARQL-logo.png)
 
 We're pleased to announce the first (alpha) release of the Dutch historical censuses dataset as Linked Data. Point your browsers and applications to the SPARQL endpoint
 

@@ -5,6 +5,7 @@ date: 2012-06-28 10:56:36
 description: "Along with all the e-Humanities Group projects, the CEDAR project is going to be presented this afternoon at the Meertens Institute, Symposiumzaal, Joan Muyskensweg 25, 1096 CJ Amsterdam in a special mini-symposium."
 tags: cedar ehumanities symposium workshop
 categories: cedar meetings presentations project-management workshops
+thumbnail: assets/img/image001-300x61.jpg 
 ---
 
 Along with all the e-Humanities Group projects, the CEDAR project is going to be presented this afternoon at the Meertens Institute, Symposiumzaal, Joan Muyskensweg 25, 1096 CJ Amsterdam in a special mini-symposium. You are cordially invited. The official call follows.

@@ -5,9 +5,10 @@ date: 2014-03-19 08:34:24
 description: "Once a year we celebrate a project mini symposium, where we come together, report our advances, and open the floor to researchers interested in the variety of topics the project involves: statistical data, social history, the Semantic Web, data harmonisation, and many others. This year we will have a two-day program."
 tags: cedar ehumanities symposium
 categories: cedar hackathons meetings presentations workshops
+thumbnail: /assets/img/eHumanities-Logo-Overlap-131112.jpg
 ---
 
-[![eHumanities-Logo-Overlap-131112](http://www.cedar-project.nl/wp-content/uploads/eHumanities-Logo-Overlap-131112.jpg)](http://www.ehumanities.nl)
+[![eHumanities-Logo-Overlap-131112](/assets/img/eHumanities-Logo-Overlap-131112.jpg)](http://www.ehumanities.nl)
 
 **Time:** Monday March 31st - Tuesday April 1st, 2014
 

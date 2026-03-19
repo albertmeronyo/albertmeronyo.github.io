@@ -5,14 +5,17 @@ date: 2014-06-17 14:28:36
 description: "During last April 2, CEDAR participated in the great 1st VU Digital History Datathon (notice the difference with a hackathon)."
 tags: cedar ehumanities
 categories: cedar hackathons meetings
+thumbnail: /assets/img/2014-04-02-14.22.53.jpg
 ---
 
-[![2014-04-02 14.20.58](http://www.cedar-project.nl/wp-content/uploads/2014-04-02-14.20.58-300x168.jpg)](http://www.cedar-project.nl/wp-content/uploads/2014-04-02-14.20.58.jpg)During last April 2, CEDAR participated in the great 1st VU Digital History Datathon (notice the difference with a hackathon). The goal of the day was to sit together with the many people applying Linked Data principles to historical datasets at the VU and its sorroundings, in order to:
+[![2014-04-02 14.20.58](/assets/img/2014-04-02-14.20.58-300x168.jpg)](/assets/img/2014-04-02-14.20.58.jpg)
+
+During last April 2, CEDAR participated in the great 1st VU Digital History Datathon (notice the difference with a hackathon). The goal of the day was to sit together with the many people applying Linked Data principles to historical datasets at the VU and its sorroundings, in order to:
 
 - Get a clear **picture** of the different datasets, and the way they may be linked
 - Produce as many **links** between these datasets as possible
 
-[Victor de Boer](http://www.few.vu.nl/~vbr240/), with support from [Chris Dijkshoorn](http://www.few.vu.nl/~cdn370/about.html), [Niels Ockeloen](https://www.linkedin.com/in/nielsockeloen) and [Albert Meroño](https://www.albertmeronyo.org/), organized the day. Victor taught the audience on the [basics of RDF linking](http://www.slideshare.net/vdeboer/linking-up-your-data), while the other participants described their datasets and found meaningful potential links. [![2014-04-02 11.36.01](http://www.cedar-project.nl/wp-content/uploads/2014-04-02-11.36.01-e1403014649420-168x300.jpg)](http://www.cedar-project.nl/wp-content/uploads/2014-04-02-11.36.01.jpg)
+[Victor de Boer](http://www.few.vu.nl/~vbr240/), with support from [Chris Dijkshoorn](http://www.few.vu.nl/~cdn370/about.html), [Niels Ockeloen](https://www.linkedin.com/in/nielsockeloen) and [Albert Meroño](https://www.albertmeronyo.org/), organized the day. Victor taught the audience on the [basics of RDF linking](http://www.slideshare.net/vdeboer/linking-up-your-data), while the other participants described their datasets and found meaningful potential links. [![2014-04-02 11.36.01](/assets/img/2014-04-02-11.36.01-e1403014649420-168x300.jpg)](/assets/img/2014-04-02-11.36.01.jpg)
 
 At the end of the datathon, the following sets of links where produced:
 
