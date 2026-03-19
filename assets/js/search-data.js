@@ -70,16 +70,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-ai-amp-society-article-on-hermeneutic-prompting-featured-in-forbes",
+          title: 'AI &amp;amp; SOCIETY article on hermeneutic prompting featured in Forbes',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-our-cube-mt-paper-on-benchmarking-multimodal-knowledge-graphs-with-generative-ai-has-been-accepted-at-eswc-2026",
+          title: 'Our CUBE-MT paper on benchmarking multimodal knowledge graphs with generative AI has been...',
+          description: "",
+          section: "News",},{id: "news-maayan-and-katharine-have-both-passed-their-18-month-upgrade-vivas-congratulations",
+          title: 'Maayan and Katharine have both passed their 18-month upgrade vivas — congratulations! 🎉...',
+          description: "",
+          section: "News",},{id: "news-xin-fan-s-knowml-paper-on-intrusion-detection-with-knowledge-graphs-has-been-accepted-at-usenix-security-2026",
+          title: 'Xin Fan’s KnowML paper on intrusion detection with knowledge graphs has been accepted...',
+          description: "",
+          section: "News",},{id: "news-yihang-s-ontoscope-and-ontochat-for-user-story-generation-papers-have-been-accepted-at-iui-2026-and-acm-tist-respectively",
+          title: 'Yihang’s OntoScope and Ontochat for user story generation papers have been accepted at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
