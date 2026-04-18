@@ -6,7 +6,7 @@ subtitle: Knowledge graphs, Multimodality, Digital Humanities
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="https://goo.gl/maps/t2a3oohh1gB91pb3A">Department of Informatics KCL, Bush House, BH(N)5.03</a></p>
