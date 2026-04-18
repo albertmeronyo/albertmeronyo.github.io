@@ -6,7 +6,7 @@ subtitle: Knowledge graphs, Multimodality, Digital Humanities
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="https://goo.gl/maps/t2a3oohh1gB91pb3A">Department of Informatics KCL, Bush House, BH(N)5.03</a></p>
@@ -32,7 +32,7 @@ I am an Associate Professor (Senior Lecturer) in Computer Science at [King’s C
 
 My research often involves integrating diverse data types (text, audio, symbolic music) into unified semantic frameworks. I have worked extensively on the creation, integration, and application of knowledge graphs, especially in cultural and musical domains (musical heritage, chord corpora, musical harmony, emotion recognition) and, more recently, in combination with large language models (LLMs) and Generative AI for tasks like ontology engineering and retrieval augmented generation.
 
-I co-lead the [KCL Knowledge Graphs Lab](https://medium.com/kcl-knowledge-graphs-lab) with [Elena Simperl](https://elenasimperl.eu/) and I am co-director of the [UKRI Centre for Doctoral Training in Safe and Trusted AI​](https://safeandtrustedai.org/).
+I co-lead the [KCL Knowledge Graphs Lab](https://medium.com/kcl-knowledge-graphs-lab) with [Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) and I am co-director of the [UKRI Centre for Doctoral Training in Safe and Trusted AI​](https://safeandtrustedai.org/).
 
 My profiles elsewhere on the Web:
 
