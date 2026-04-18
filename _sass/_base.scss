@@ -135,6 +135,10 @@ blockquote {
   }
 }
 
+h2 {
+  margin-top: 3rem;
+}
+
 // Checklist
 
 ul.task-list {
@@ -201,7 +205,8 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    // font-family: monospace;
+    font-family: Roboto, sans-serif;
 
     p {
       display: inline-block;
@@ -211,7 +216,8 @@ ul.task-list input[type="checkbox"] {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  // margin-left: 1rem;
+  margin-left: 3rem;
 }
 
 .profile.float-left {
@@ -322,24 +328,24 @@ ul.task-list input[type="checkbox"] {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 1.3rem;
 
     a {
       img {
-        width: 1.7rem;
-        height: 1.7rem;
+        width: 1.3rem;
+        height: 1.3rem;
         margin-bottom: 0.5rem;
         // margin: 0.5rem;
       }
 
       svg {
-        width: 1.7rem;
-        height: 1.7rem;
+        width: 1.3rem;
+        height: 1.3rem;
         margin-bottom: 0.5rem;
 
         image {
-          width: 1.7rem;
-          height: 1.7rem;
+          width: 1.3rem;
+          height: 1.3rem;
         }
       }
 
