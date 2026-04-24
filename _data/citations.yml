@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-24'
 papers:
   IOqo_BwAAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "We\u2019re Not Gonna Take It: Putting the Web at Musicians\u2019 Service"
     year: Unknown Year
   IOqo_BwAAAAJ:-jrNzM816MMC:
-    citations: 0
+    citations: 3
     title: Automatic Verification of References of Wikidata Statements
     year: '2025'
   IOqo_BwAAAAJ:-mN3Mh-tlDkC:
@@ -22,7 +22,7 @@ papers:
     title: 'D7. 3: Polifonia Data Management Plan-final version (V0. 9)'
     year: '2023'
   IOqo_BwAAAAJ:-nhnvRiOwuoC:
-    citations: 5
+    citations: 8
     title: 'Trustworthy knowledge graphs: Practices and approaches'
     year: '2025'
   IOqo_BwAAAAJ:0CzhzZyukY4C:
@@ -46,7 +46,7 @@ papers:
     title: How an AI-ready National Data Library would help UK science
     year: '2025'
   IOqo_BwAAAAJ:1Ye0OR6EYb4C:
-    citations: 5
+    citations: 6
     title: 'Knowledge Prompting: How Knowledge Engineers Use Large Language Models'
     year: '2024'
   IOqo_BwAAAAJ:1lhNe0rCu4AC:
@@ -90,7 +90,7 @@ papers:
     title: 'Harmonizing Aggregate Historical Dutch Census Data: a Flexible Approach'
     year: '2016'
   IOqo_BwAAAAJ:3NQIlFlcGxIC:
-    citations: 10
+    citations: 14
     title: User experience in dataset search
     year: '2024'
   IOqo_BwAAAAJ:3bvyWxjaHKcC:
@@ -166,7 +166,7 @@ papers:
     title: D7. 2 data management plan (second version)
     year: '2023'
   IOqo_BwAAAAJ:7H_MAutzIkAC:
-    citations: 177
+    citations: 181
     title: 'Prompting meaning: a hermeneutic approach to optimising prompt engineering with ChatGPT'
     year: '2023'
   IOqo_BwAAAAJ:7Hz3ACDFbsoC:
@@ -178,7 +178,7 @@ papers:
     title: 'CEDAR: Linked Open Census Data: Project Statement'
     year: '2015'
   IOqo_BwAAAAJ:7wO8s98CvbsC:
-    citations: 11
+    citations: 15
     title: 'The Music Meta Ontology: a flexible semantic model for the interoperability of music metadata'
     year: '2023'
   IOqo_BwAAAAJ:86PQX7AUzd4C:
@@ -254,11 +254,11 @@ papers:
     title: 'The semantic web: Eswc 2022 satellite events'
     year: '2022'
   IOqo_BwAAAAJ:CB2v5VPnA5kC:
-    citations: 31
+    citations: 33
     title: 'Using Large Language Models for Knowledge Engineering (LLMKE): A Case Study on Wikidata'
     year: '2023'
   IOqo_BwAAAAJ:CYCckWUYoCcC:
-    citations: 0
+    citations: 1
     title: 'TimelyAI: When Should Generative AI Assistants Intervene?'
     year: '2026'
   IOqo_BwAAAAJ:CaZNVDsoPx4C:
@@ -298,7 +298,7 @@ papers:
     title: Improving ontology requirements engineering with ontochat and participatory prompting (2024)
     year: Unknown Year
   IOqo_BwAAAAJ:DyXnQzXoVgIC:
-    citations: 0
+    citations: 1
     title: GenAI-augmented Group Awareness Tools for Supporting Socially Shared Metacognition
     year: '2026'
   IOqo_BwAAAAJ:EYYDruWGBe4C:
@@ -434,11 +434,11 @@ papers:
     title: 'Actionable Data Links: Tools for Reproducibility in Social Science and History'
     year: Unknown Year
   IOqo_BwAAAAJ:LPtt_HFRSbwC:
-    citations: 38
+    citations: 40
     title: 'Revont: Reverse engineering of competency questions from knowledge graphs via language models'
     year: '2024'
   IOqo_BwAAAAJ:LXmCCkuhhTsC:
-    citations: 2
+    citations: 4
     title: 'OntoScope: Using a Divergent-Convergent Interaction Framework to Support LLM-based Ontology Scoping'
     year: '2026'
   IOqo_BwAAAAJ:LdasjJ6CEcoC:
@@ -474,7 +474,7 @@ papers:
     title: 'The Semantic Web MIDI Tape: A Read/Write RESTful Interface for Recording MIDI as Linked Data'
     year: '2018'
   IOqo_BwAAAAJ:MhiOAD_qIWkC:
-    citations: 102
+    citations: 103
     title: 'State of the field: digital history'
     year: '2020'
   IOqo_BwAAAAJ:MpfHP-DdYjUC:
@@ -486,7 +486,7 @@ papers:
     title: Baseline Statistics of Linked Statistical Data
     year: '2014'
   IOqo_BwAAAAJ:NDuN12AVoxsC:
-    citations: 3
+    citations: 4
     title: 'From detection to explanation: effective learning strategies for LLMs in online abusive language research'
     year: '2025'
   IOqo_BwAAAAJ:NJ774b8OgUMC:
@@ -542,7 +542,7 @@ papers:
     title: How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective
     year: '2025'
   IOqo_BwAAAAJ:PyEswDtIyv0C:
-    citations: 12
+    citations: 14
     title: 'KG. GOV: Knowledge graphs as the backbone of data governance in AI'
     year: '2025'
   IOqo_BwAAAAJ:QD3KBmkZPeQC:
@@ -578,7 +578,7 @@ papers:
     title: "F., van Harmelen,\u201CSemantic Technologies for Historical Research: A Survey\u201D, Semantic Web Journal, 2014"
     year: Unknown Year
   IOqo_BwAAAAJ:SIv7DqKytYAC:
-    citations: 0
+    citations: 2
     title: Exploring the Design of GenAI-Based Systems to Support Socially Shared Metacognition
     year: '2026'
   IOqo_BwAAAAJ:SjuI4pbJlxcC:
@@ -626,11 +626,11 @@ papers:
     title: Linking MIDI Data for multidisciplinary and FAIR AI on Music
     year: Unknown Year
   IOqo_BwAAAAJ:UmS_249rOGwC:
-    citations: 0
+    citations: 2
     title: Design Guidance Towards Addressing Over-Reliance on AI in Sensemaking
     year: '2026'
   IOqo_BwAAAAJ:UuEBAcK4md4C:
-    citations: 1
+    citations: 2
     title: 'Knowledge prompting: How knowledge engineers use generative AI'
     year: '2025'
   IOqo_BwAAAAJ:VL0QpB8kHFEC:
@@ -670,7 +670,7 @@ papers:
     title: 'Publishing, harmonizing and consuming census data: The CEDAR project'
     year: '2013'
   IOqo_BwAAAAJ:WHdLCjDvYFkC:
-    citations: 48
+    citations: 53
     title: 'The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage'
     year: '2023'
   IOqo_BwAAAAJ:WJVC3Jt7v1AC:
@@ -878,7 +878,7 @@ papers:
     title: "The Semantic Web: 20th International Conference, ESWC 2023, Hersonissos, Crete, Greece, May 28\u2013June 1, 2023, Proceedings"
     year: '2023'
   IOqo_BwAAAAJ:jE2MZjpN3IcC:
-    citations: 10
+    citations: 12
     title: Improving ontology requirements engineering with ontochat and participatory prompting
     year: '2024'
   IOqo_BwAAAAJ:jFemdcug13IC:
@@ -890,7 +890,7 @@ papers:
     title: "Multi-Agent Systems Research at King\u2019s College London"
     year: Unknown Year
   IOqo_BwAAAAJ:jSAVyFp_754C:
-    citations: 0
+    citations: 3
     title: 'Introducing ProVe for Wikidata: Automatic Verification of References'
     year: '2025'
   IOqo_BwAAAAJ:jU7OWUQzBzMC:
@@ -994,7 +994,7 @@ papers:
     title: Provenance Verification of Wikidata Statements at Scale
     year: Unknown Year
   IOqo_BwAAAAJ:pAkWuXOU-OoC:
-    citations: 17
+    citations: 18
     title: Knowledge-enhanced program repair for data science code
     year: '2025'
   IOqo_BwAAAAJ:pS0ncopqnHgC:
@@ -1005,6 +1005,10 @@ papers:
     citations: 0
     title: 'Retracing hotbeds of the 1918-9 influenza pandemic: Spatial differences in 1918-9 excess mortality in the Netherlands'
     year: '2021'
+  IOqo_BwAAAAJ:qe6vwMD2xtsC:
+    citations: 0
+    title: OntoChat Assistant for User Story Generation in Ontology Engineering
+    year: '2026'
   IOqo_BwAAAAJ:rHJHxKgnXwkC:
     citations: 0
     title: On the Choice of Vocabularies for Archival Data
@@ -1018,7 +1022,7 @@ papers:
     title: 'Decomplexifying the network pipeline: a tool for RDF/Wikidata to network analysis'
     year: '2020'
   IOqo_BwAAAAJ:raTqNPD5sRQC:
-    citations: 2
+    citations: 4
     title: Schema Generation for Large Knowledge Graphs Using Large Language Models
     year: '2025'
   IOqo_BwAAAAJ:rbm3iO8VlycC:
@@ -1118,7 +1122,7 @@ papers:
     title: Accessing Knowledge Graphs Programmatically
     year: '2022'
   IOqo_BwAAAAJ:w1MjKQ0l0TYC:
-    citations: 8
+    citations: 9
     title: 'Towards responsible AI Music: An investigation of trustworthy features for creative systems'
     year: '2025'
   IOqo_BwAAAAJ:wKETBy42zhYC:
@@ -1174,6 +1178,6 @@ papers:
     title: Classifying the Dutch Historical Censuses
     year: '2013'
   IOqo_BwAAAAJ:ziOE8S1-AIUC:
-    citations: 1
+    citations: 2
     title: Filling in the Blanks? A Systematic Review and Theoretical Conceptualisation for Measuring WikiData Content Gaps
     year: '2025'
