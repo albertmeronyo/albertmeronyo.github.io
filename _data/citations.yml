@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-06'
 papers:
   IOqo_BwAAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -82,7 +82,7 @@ papers:
     title: Ontologies for Governance, Risk Management and Policy Compliance
     year: '2011'
   IOqo_BwAAAAJ:2tRrZ1ZAMYUC:
-    citations: 1
+    citations: 2
     title: SPARQL Endpoints and Web API (SWApi)
     year: '2022'
   IOqo_BwAAAAJ:35r97b3x0nAC:
@@ -166,7 +166,7 @@ papers:
     title: D7. 2 data management plan (second version)
     year: '2023'
   IOqo_BwAAAAJ:7H_MAutzIkAC:
-    citations: 181
+    citations: 183
     title: 'Prompting meaning: a hermeneutic approach to optimising prompt engineering with ChatGPT'
     year: '2023'
   IOqo_BwAAAAJ:7Hz3ACDFbsoC:
@@ -202,7 +202,7 @@ papers:
     title: 'The neurona ontology: A data protection compliance ontology'
     year: '2010'
   IOqo_BwAAAAJ:9yKSN-GCB0IC:
-    citations: 23
+    citations: 24
     title: 'Ontological Semantics for Data Privacy Compliance: The NEURONA Project'
     year: '2006'
   IOqo_BwAAAAJ:ALROH1vI_8AC:
@@ -486,7 +486,7 @@ papers:
     title: Baseline Statistics of Linked Statistical Data
     year: '2014'
   IOqo_BwAAAAJ:NDuN12AVoxsC:
-    citations: 4
+    citations: 5
     title: 'From detection to explanation: effective learning strategies for LLMs in online abusive language research'
     year: '2025'
   IOqo_BwAAAAJ:NJ774b8OgUMC:
@@ -502,7 +502,7 @@ papers:
     title: Improving language model predictions via prompts enriched with knowledge graphs
     year: '2023'
   IOqo_BwAAAAJ:OBSaB-F7qqsC:
-    citations: 15
+    citations: 16
     title: Is explanation all you need? an expert survey on llm-generated explanations for abusive language detection
     year: '2024'
   IOqo_BwAAAAJ:ODE9OILHJdcC:
@@ -542,7 +542,7 @@ papers:
     title: How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective
     year: '2025'
   IOqo_BwAAAAJ:PyEswDtIyv0C:
-    citations: 15
+    citations: 17
     title: 'KG. GOV: Knowledge graphs as the backbone of data governance in AI'
     year: '2025'
   IOqo_BwAAAAJ:QD3KBmkZPeQC:
@@ -1018,11 +1018,11 @@ papers:
     title: "Semantic technologies for historical research: a survey. Semant. Web. 6, 539\u2013564 (2014)"
     year: Unknown Year
   IOqo_BwAAAAJ:r_AWSJRzSzQC:
-    citations: 0
+    citations: 1
     title: 'Decomplexifying the network pipeline: a tool for RDF/Wikidata to network analysis'
     year: '2020'
   IOqo_BwAAAAJ:raTqNPD5sRQC:
-    citations: 4
+    citations: 5
     title: Schema Generation for Large Knowledge Graphs Using Large Language Models
     year: '2025'
   IOqo_BwAAAAJ:rbm3iO8VlycC:
@@ -1114,7 +1114,7 @@ papers:
     title: 'Knowledge Engineering and Knowledge Management: 20th International Conference, EKAW 2016, Bologna, Italy, November 19-23, 2016, Proceedings'
     year: '2016'
   IOqo_BwAAAAJ:v1_lew4L6wgC:
-    citations: 36
+    citations: 37
     title: 'Choco: a chord corpus and a data transformation workflow for musical harmony knowledge graphs'
     year: '2023'
   IOqo_BwAAAAJ:vDZJ-YLwNdEC:
@@ -1122,7 +1122,7 @@ papers:
     title: Accessing Knowledge Graphs Programmatically
     year: '2022'
   IOqo_BwAAAAJ:w1MjKQ0l0TYC:
-    citations: 10
+    citations: 11
     title: 'Towards responsible AI Music: An investigation of trustworthy features for creative systems'
     year: '2025'
   IOqo_BwAAAAJ:wKETBy42zhYC:
