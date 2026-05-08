@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-08'
 papers:
   IOqo_BwAAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -778,7 +778,7 @@ papers:
     title: Measuring Quality of Evolution in Diachronic Web Vocabularies Using Inferred Optimal Change Models
     year: Unknown Year
   IOqo_BwAAAAJ:bKqednn6t2AC:
-    citations: 39
+    citations: 38
     title: 'MIDI2vec: Learning MIDI embeddings for reliable prediction of symbolic music metadata'
     year: '2022'
   IOqo_BwAAAAJ:buQ7SEKw-1sC:
@@ -1114,7 +1114,7 @@ papers:
     title: 'Knowledge Engineering and Knowledge Management: 20th International Conference, EKAW 2016, Bologna, Italy, November 19-23, 2016, Proceedings'
     year: '2016'
   IOqo_BwAAAAJ:v1_lew4L6wgC:
-    citations: 37
+    citations: 38
     title: 'Choco: a chord corpus and a data transformation workflow for musical harmony knowledge graphs'
     year: '2023'
   IOqo_BwAAAAJ:vDZJ-YLwNdEC:
