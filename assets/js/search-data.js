@@ -75,7 +75,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-our-cube-mt-paper-on-benchmarking-multimodal-knowledge-graphs-with-generative-ai-has-been-accepted-at-eswc-2026",
+            },},{id: "news-our-cube-mt-paper-on-benchmarking-multimodal-knowledge-graphs-with-generative-ai-has-been-accepted-at-eswc-2026-best-resource-paper-award-nominee",
           title: 'Our CUBE-MT paper on benchmarking multimodal knowledge graphs with generative AI has been...',
           description: "",
           section: "News",},{id: "news-maayan-and-katharine-have-both-passed-their-18-month-upgrade-vivas-congratulations",
