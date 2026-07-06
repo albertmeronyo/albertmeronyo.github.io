@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-06'
 papers:
   IOqo_BwAAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -69,6 +69,10 @@ papers:
     citations: 6
     title: 'The promise and challenge of large language models for knowledge engineering: Insights from a hackathon'
     year: '2024'
+  IOqo_BwAAAAJ:27LrP4qxOz0C:
+    citations: 0
+    title: 'Knowledge prompting: How knowledge engineers use generative AI (vol 88, 100873, 2026)'
+    year: '2026'
   IOqo_BwAAAAJ:2KloaMYe4IUC:
     citations: 24
     title: 'The song remains the same: lossless conversion and streaming of MIDI to RDF and back'
@@ -142,7 +146,7 @@ papers:
     title: 'CEDAR: The Dutch historical censuses as Linked Open Data.'
     year: '2017'
   IOqo_BwAAAAJ:5icHVeHT4IsC:
-    citations: 6
+    citations: 5
     title: '& Van Harmelen, F.(2014)'
     year: Unknown Year
   IOqo_BwAAAAJ:65Yg0jNCQDAC:
@@ -166,7 +170,7 @@ papers:
     title: '[Novel] Draw Me Like My Triples: Leveraging Generative AI for Wikidata Image Completion'
     year: Unknown Year
   IOqo_BwAAAAJ:6yz0xqPARnAC:
-    citations: 31
+    citations: 32
     title: An analysis of content gaps versus user needs in the wikidata knowledge graph
     year: '2022'
   IOqo_BwAAAAJ:7BrZ7Jt4UNcC:
@@ -174,7 +178,7 @@ papers:
     title: D7. 2 data management plan (second version)
     year: '2023'
   IOqo_BwAAAAJ:7H_MAutzIkAC:
-    citations: 192
+    citations: 193
     title: 'Prompting meaning: a hermeneutic approach to optimising prompt engineering with ChatGPT'
     year: '2023'
   IOqo_BwAAAAJ:7Hz3ACDFbsoC:
@@ -186,7 +190,7 @@ papers:
     title: 'CEDAR: Linked Open Census Data: Project Statement'
     year: '2015'
   IOqo_BwAAAAJ:7wO8s98CvbsC:
-    citations: 17
+    citations: 19
     title: 'The Music Meta Ontology: a flexible semantic model for the interoperability of music metadata'
     year: '2023'
   IOqo_BwAAAAJ:86PQX7AUzd4C:
@@ -446,7 +450,7 @@ papers:
     title: 'Actionable Data Links: Tools for Reproducibility in Social Science and History'
     year: Unknown Year
   IOqo_BwAAAAJ:LPtt_HFRSbwC:
-    citations: 42
+    citations: 43
     title: 'Revont: Reverse engineering of competency questions from knowledge graphs via language models'
     year: '2024'
   IOqo_BwAAAAJ:LXmCCkuhhTsC:
@@ -454,7 +458,7 @@ papers:
     title: 'OntoScope: Using a divergent-convergent interaction framework to support LLM-based ontology scoping'
     year: '2026'
   IOqo_BwAAAAJ:LdasjJ6CEcoC:
-    citations: 17
+    citations: 18
     title: Towards Explainable Automatic Knowledge Graph Construction with Human-in-the-loop
     year: '2023'
   IOqo_BwAAAAJ:LgRImbQfgY4C:
@@ -486,7 +490,7 @@ papers:
     title: 'The Semantic Web MIDI Tape: A Read/Write RESTful Interface for Recording MIDI as Linked Data'
     year: '2018'
   IOqo_BwAAAAJ:MhiOAD_qIWkC:
-    citations: 109
+    citations: 112
     title: 'State of the field: digital history'
     year: '2020'
   IOqo_BwAAAAJ:MpfHP-DdYjUC:
@@ -510,11 +514,11 @@ papers:
     title: 'The Semantic Web: ESWC 2013 Satellite Events: ESWC 2013, Satellite Events, Montpellier, France, May 26-30, 2013, Revised Selected Papers'
     year: '2013'
   IOqo_BwAAAAJ:NyGDZy8z5eUC:
-    citations: 28
+    citations: 27
     title: Improving language model predictions via prompts enriched with knowledge graphs
     year: '2023'
   IOqo_BwAAAAJ:OBSaB-F7qqsC:
-    citations: 16
+    citations: 17
     title: Is explanation all you need? an expert survey on llm-generated explanations for abusive language detection
     year: '2024'
   IOqo_BwAAAAJ:ODE9OILHJdcC:
@@ -554,7 +558,7 @@ papers:
     title: How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective
     year: '2025'
   IOqo_BwAAAAJ:PyEswDtIyv0C:
-    citations: 25
+    citations: 26
     title: 'KG. GOV: Knowledge graphs as the backbone of data governance in AI'
     year: '2025'
   IOqo_BwAAAAJ:QD3KBmkZPeQC:
@@ -697,6 +701,10 @@ papers:
     citations: 4
     title: 'To SCRY Linked Data: Extending SPARQL the Easy Way.'
     year: '2015'
+  IOqo_BwAAAAJ:X9ykpCP0fEIC:
+    citations: 0
+    title: 'Extended NeOn-GPT: Advancing LLM-Powered Ontology Learning Through Ontology Reuse and Automated Verification'
+    year: '2026'
   IOqo_BwAAAAJ:XD-gHx7UXLsC:
     citations: 0
     title: 'Linked Edit Rules: A Web Friendly Way of Checking Quality of RDF Data Cubes'
@@ -794,7 +802,7 @@ papers:
     title: Measuring Quality of Evolution in Diachronic Web Vocabularies Using Inferred Optimal Change Models
     year: Unknown Year
   IOqo_BwAAAAJ:bKqednn6t2AC:
-    citations: 39
+    citations: 40
     title: 'MIDI2vec: Learning MIDI embeddings for reliable prediction of symbolic music metadata'
     year: '2022'
   IOqo_BwAAAAJ:buQ7SEKw-1sC:
@@ -834,7 +842,7 @@ papers:
     title: Non-Temporal Orderings as Proxies for Extensional Concept Drift
     year: '2013'
   IOqo_BwAAAAJ:e_rmSamDkqQC:
-    citations: 218
+    citations: 219
     title: 'Semantic technologies for historical research: A survey'
     year: '2015'
   IOqo_BwAAAAJ:edDO8Oi4QzsC:
@@ -898,7 +906,7 @@ papers:
     title: "The Semantic Web: 20th International Conference, ESWC 2023, Hersonissos, Crete, Greece, May 28\u2013June 1, 2023, Proceedings"
     year: '2023'
   IOqo_BwAAAAJ:jE2MZjpN3IcC:
-    citations: 14
+    citations: 15
     title: Improving ontology requirements engineering with ontochat and participatory prompting
     year: '2024'
   IOqo_BwAAAAJ:jFemdcug13IC:
@@ -918,7 +926,7 @@ papers:
     title: 'Ontological Semantics for Data Privacy Compliance: The Neurona Project'
     year: '2010'
   IOqo_BwAAAAJ:k8Z6L05lTy4C:
-    citations: 7
+    citations: 8
     title: Cross-domain Semantic Drift Measurement in Ontologies Using the SemaDrift Tool and Metrics.
     year: '2017'
   IOqo_BwAAAAJ:kF1pexMAQbMC:
@@ -1014,7 +1022,7 @@ papers:
     title: Provenance Verification of Wikidata Statements at Scale
     year: Unknown Year
   IOqo_BwAAAAJ:pAkWuXOU-OoC:
-    citations: 21
+    citations: 22
     title: Knowledge-enhanced program repair for data science code
     year: '2025'
   IOqo_BwAAAAJ:pS0ncopqnHgC:
@@ -1094,7 +1102,7 @@ papers:
     title: Making Social Science More Reproducible by Encapsulating Access to Linked Data
     year: Unknown Year
   IOqo_BwAAAAJ:tzM49s52ZIMC:
-    citations: 71
+    citations: 72
     title: grlc makes GitHub taste like linked data APIs
     year: '2016'
   IOqo_BwAAAAJ:u-x6o8ySG0sC:
@@ -1170,7 +1178,7 @@ papers:
     title: Harmonizing the Dutch Historical Censuses in the Semantic Web
     year: '2014'
   IOqo_BwAAAAJ:yFnVuubrUp4C:
-    citations: 5
+    citations: 6
     title: "Retracing hotbeds of the 1918\u201319 influenza pandemic. Spatial differences in seasonal excess mortality in The Netherlands"
     year: '2021'
   IOqo_BwAAAAJ:yMeIxYmEMEAC:
