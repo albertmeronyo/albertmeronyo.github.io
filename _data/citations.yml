@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-17'
 papers:
   IOqo_BwAAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: 'The Semantic Web: Semantics and Big Data: 10th International Conference, ESWC 2013, Montpellier, France, May 26-30, 2013. Proceedings'
     year: '2013'
   IOqo_BwAAAAJ:1DsIQWDZLl8C:
-    citations: 2
+    citations: 3
     title: How an AI-ready National Data Library would help UK science
     year: '2025'
   IOqo_BwAAAAJ:1Ye0OR6EYb4C:
@@ -102,7 +102,7 @@ papers:
     title: 'Harmonizing Aggregate Historical Dutch Census Data: a Flexible Approach'
     year: '2016'
   IOqo_BwAAAAJ:3NQIlFlcGxIC:
-    citations: 17
+    citations: 18
     title: User experience in dataset search
     year: '2024'
   IOqo_BwAAAAJ:3bvyWxjaHKcC:
@@ -130,7 +130,7 @@ papers:
     title: "The Semantic Web\u2013ISWC 2017: 16th International Semantic Web Conference, Vienna, Austria, October 21\u201325, 2017, Proceedings, Part I"
     year: '2017'
   IOqo_BwAAAAJ:4vMrXwiscB8C:
-    citations: 24
+    citations: 25
     title: Interacting with gpt-2 to generate controlled and believable musical sequences in abc notation
     year: '2020'
   IOqo_BwAAAAJ:5MTHONV0fEkC:
@@ -270,7 +270,7 @@ papers:
     title: 'The semantic web: Eswc 2022 satellite events'
     year: '2022'
   IOqo_BwAAAAJ:CB2v5VPnA5kC:
-    citations: 35
+    citations: 34
     title: 'Using Large Language Models for Knowledge Engineering (LLMKE): A Case Study on Wikidata'
     year: '2023'
   IOqo_BwAAAAJ:CYCckWUYoCcC:
@@ -359,7 +359,7 @@ papers:
     year: Unknown Year
   IOqo_BwAAAAJ:HIFyuExEbWQC:
     citations: 14
-    title: 'CLARIAH: Enabling interoperability between humanities disciplines with ontologies'
+    title: 'CLARIAH: enabling interoperability between humanities disciplines with ontologies'
     year: '2020'
   IOqo_BwAAAAJ:HJSXoJQnj-YC:
     citations: 2
@@ -474,7 +474,7 @@ papers:
     title: 'Linked edit rules: A web friendly way of checking quality of RDF data cubes'
     year: '2015'
   IOqo_BwAAAAJ:M7yex6snE4oC:
-    citations: 52
+    citations: 53
     title: The MIDI linked data cloud
     year: '2017'
   IOqo_BwAAAAJ:MAUkC_7iAq8C:
@@ -514,11 +514,11 @@ papers:
     title: 'The Semantic Web: ESWC 2013 Satellite Events: ESWC 2013, Satellite Events, Montpellier, France, May 26-30, 2013, Revised Selected Papers'
     year: '2013'
   IOqo_BwAAAAJ:NyGDZy8z5eUC:
-    citations: 27
+    citations: 28
     title: Improving language model predictions via prompts enriched with knowledge graphs
     year: '2023'
   IOqo_BwAAAAJ:OBSaB-F7qqsC:
-    citations: 17
+    citations: 18
     title: Is explanation all you need? an expert survey on llm-generated explanations for abusive language detection
     year: '2024'
   IOqo_BwAAAAJ:ODE9OILHJdcC:
@@ -558,7 +558,7 @@ papers:
     title: How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective
     year: '2025'
   IOqo_BwAAAAJ:PyEswDtIyv0C:
-    citations: 26
+    citations: 27
     title: 'KG. GOV: Knowledge graphs as the backbone of data governance in AI'
     year: '2025'
   IOqo_BwAAAAJ:QD3KBmkZPeQC:
@@ -686,7 +686,7 @@ papers:
     title: 'Publishing, harmonizing and consuming census data: The CEDAR project'
     year: '2013'
   IOqo_BwAAAAJ:WHdLCjDvYFkC:
-    citations: 59
+    citations: 62
     title: 'The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage'
     year: '2023'
   IOqo_BwAAAAJ:WJVC3Jt7v1AC:
@@ -728,6 +728,10 @@ papers:
   IOqo_BwAAAAJ:Y5dfb0dijaUC:
     citations: 0
     title: 'The Use of Semantic Technologies in Legal Applications: The IURISERVICE, NEURONA, and ONTOMEDIA Projects'
+    year: Unknown Year
+  IOqo_BwAAAAJ:YlPif8NxrbYC:
+    citations: 0
+    title: "King\u2019s Research Portal"
     year: Unknown Year
   IOqo_BwAAAAJ:YohjEiUPhakC:
     citations: 0
@@ -859,14 +863,14 @@ papers:
     year: '2014'
   IOqo_BwAAAAJ:fEOibwPWpKIC:
     citations: 2
-    title: Visualizing the Drift of Linked Open Data Using Self-Organizing Maps
+    title: Visualizing the Drift of Linked Open Data Using Self-Organizing Maps.
     year: '2016'
   IOqo_BwAAAAJ:fFSKOagxvKUC:
     citations: 4
     title: Summary of tutorials at the Web Conference 2021
     year: '2021'
   IOqo_BwAAAAJ:fbc8zXXH2BUC:
-    citations: 25
+    citations: 24
     title: The hermeneutics of computer-generated texts
     year: '2022'
   IOqo_BwAAAAJ:foquWX3nUaYC:
@@ -1054,7 +1058,7 @@ papers:
     title: 'Decomplexifying the network pipeline: a tool for RDF/Wikidata to network analysis'
     year: '2020'
   IOqo_BwAAAAJ:raTqNPD5sRQC:
-    citations: 7
+    citations: 8
     title: Schema Generation for Large Knowledge Graphs Using Large Language Models
     year: '2025'
   IOqo_BwAAAAJ:rbm3iO8VlycC:
@@ -1158,11 +1162,11 @@ papers:
     title: Accessing Knowledge Graphs Programmatically
     year: '2022'
   IOqo_BwAAAAJ:w1MjKQ0l0TYC:
-    citations: 14
+    citations: 15
     title: 'Towards responsible AI Music: An investigation of trustworthy features for creative systems'
     year: '2025'
   IOqo_BwAAAAJ:wKETBy42zhYC:
-    citations: 6
+    citations: 7
     title: 'Draw me like my triples: Leveraging generative AI for wikidata image completion'
     year: '2023'
   IOqo_BwAAAAJ:wMgC3FpKEyYC:
