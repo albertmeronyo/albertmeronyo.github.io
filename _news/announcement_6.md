@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-03-14
+date: 2026-03-30
 inline: true
 related_posts: false
 ---
 
-Yihang's [OntoScope](/assets/pdf/IUI2026.pdf) and [Ontochat for user story generation](/assets/pdf/TIST_NC.pdf) papers have been accepted at <a href="https://iui.acm.org/2026/">IUI 2026</a> and <a href="https://dl.acm.org/journal/tist">ACM TIST</a>, respectively
+Arunav et al's paper on [NeOn-GPT: Advancing LLM-Powered Ontology Learning Through Ontology Reuse and Automated Verification](https://journals.sagepub.com/doi/pdf/10.1177/22104968261453138) has been accepted at the [Semantic Web Journal](https://www.semantic-web-journal.net/)
