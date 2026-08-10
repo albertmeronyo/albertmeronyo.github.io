@@ -8,7 +8,7 @@ middle_name:
 last_name: Meroño Peñuela
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Albert's academic website. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Albert Meroño Peñuela's academic website.
 footer_text:
 keywords: knowledge graphs, multimodality, digital humanities # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
