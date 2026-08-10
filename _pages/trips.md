@@ -10,6 +10,7 @@ nav_order: 7
 ### 2025
 
 - **Schloss Dagstuhl, DE**, 9-14 November – Research meeting [Metadata Models and Services Typologies in Digital Resource-Sharing Frameworks](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25463)
+- **Borås and Gothenburg, SE**, 2-3 September - MuseIT final [consortium meeting](https://www.muse-it.eu/post/beyond-boundaries-exploring-inclusive-futures-in-culture-and-technology)
 - **Paris, FR**, 9-11 February – [CODATA meeting](https://codata.org/) AI readiness / AI Action Summit
 - **Madrid, ES**, 15-16 January – PhD defence of [Juan Cano](https://scholar.google.com/citations?user=15sH6E0AAAAJ) at [UPM](https://www.upm.es/internacional)
 
