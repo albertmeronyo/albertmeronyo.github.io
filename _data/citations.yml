@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-19'
 papers:
   IOqo_BwAAAAJ:-7ulzOJl1JYC:
     citations: 0
@@ -26,11 +26,11 @@ papers:
     title: 'D7. 3: Polifonia Data Management Plan-final version (V0. 9)'
     year: '2023'
   IOqo_BwAAAAJ:-nhnvRiOwuoC:
-    citations: 11
+    citations: 12
     title: 'Trustworthy knowledge graphs: Practices and approaches'
     year: '2025'
   IOqo_BwAAAAJ:0CzhzZyukY4C:
-    citations: 10
+    citations: 11
     title: Reasoning and interaction for social artificial intelligence
     year: '2022'
   IOqo_BwAAAAJ:0KyAp5RtaNEC:
@@ -134,7 +134,7 @@ papers:
     title: "The Semantic Web\u2013ISWC 2017: 16th International Semantic Web Conference, Vienna, Austria, October 21\u201325, 2017, Proceedings, Part I"
     year: '2017'
   IOqo_BwAAAAJ:4vMrXwiscB8C:
-    citations: 27
+    citations: 28
     title: Interacting with gpt-2 to generate controlled and believable musical sequences in abc notation
     year: '2020'
   IOqo_BwAAAAJ:5MTHONV0fEkC:
@@ -182,7 +182,7 @@ papers:
     title: D7. 2 data management plan (second version)
     year: '2023'
   IOqo_BwAAAAJ:7H_MAutzIkAC:
-    citations: 189
+    citations: 191
     title: 'Prompting meaning: a hermeneutic approach to optimising prompt engineering with ChatGPT'
     year: '2023'
   IOqo_BwAAAAJ:7Hz3ACDFbsoC:
@@ -270,7 +270,7 @@ papers:
     title: 'The semantic web: Eswc 2022 satellite events'
     year: '2022'
   IOqo_BwAAAAJ:CB2v5VPnA5kC:
-    citations: 36
+    citations: 37
     title: 'Using Large Language Models for Knowledge Engineering (LLMKE): A Case Study on Wikidata'
     year: '2023'
   IOqo_BwAAAAJ:CYCckWUYoCcC:
@@ -450,7 +450,7 @@ papers:
     title: 'Actionable Data Links: Tools for Reproducibility in Social Science and History'
     year: Unknown Year
   IOqo_BwAAAAJ:LPtt_HFRSbwC:
-    citations: 44
+    citations: 47
     title: 'RevOnt: Reverse engineering of competency questions from knowledge graphs via language models'
     year: '2024'
   IOqo_BwAAAAJ:LXmCCkuhhTsC:
@@ -490,7 +490,7 @@ papers:
     title: 'The Semantic Web MIDI Tape: A Read/Write RESTful Interface for Recording MIDI as Linked Data'
     year: '2018'
   IOqo_BwAAAAJ:MhiOAD_qIWkC:
-    citations: 111
+    citations: 112
     title: 'State of the field: digital history'
     year: '2020'
   IOqo_BwAAAAJ:MpfHP-DdYjUC:
@@ -518,7 +518,7 @@ papers:
     title: Improving language model predictions via prompts enriched with knowledge graphs
     year: '2023'
   IOqo_BwAAAAJ:OBSaB-F7qqsC:
-    citations: 18
+    citations: 19
     title: Is explanation all you need? an expert survey on llm-generated explanations for abusive language detection
     year: '2024'
   IOqo_BwAAAAJ:ODE9OILHJdcC:
@@ -558,7 +558,7 @@ papers:
     title: How far are LLMs from symbolic planners? An NLP-based perspective
     year: '2025'
   IOqo_BwAAAAJ:PyEswDtIyv0C:
-    citations: 32
+    citations: 33
     title: 'KG. GOV: Knowledge graphs as the backbone of data governance in AI'
     year: '2025'
   IOqo_BwAAAAJ:QD3KBmkZPeQC:
@@ -638,7 +638,7 @@ papers:
     title: Design guidance towards addressing over-reliance on AI in sensemaking
     year: '2026'
   IOqo_BwAAAAJ:UuEBAcK4md4C:
-    citations: 4
+    citations: 5
     title: 'Knowledge prompting: How knowledge engineers use generative AI'
     year: '2025'
   IOqo_BwAAAAJ:VL0QpB8kHFEC:
@@ -670,7 +670,7 @@ papers:
     title: 'Towards Interpretable Embeddings: Aligning Representations With Semantic Aspects'
     year: '2025'
   IOqo_BwAAAAJ:WC23djZS0W4C:
-    citations: 11
+    citations: 12
     title: An analysis of discussions in collaborative knowledge engineering through the lens of Wikidata
     year: '2023'
   IOqo_BwAAAAJ:WF5omc3nYNoC:
@@ -794,7 +794,7 @@ papers:
     title: Measuring Quality of Evolution in Diachronic Web Vocabularies Using Inferred Optimal Change Models
     year: Unknown Year
   IOqo_BwAAAAJ:bKqednn6t2AC:
-    citations: 40
+    citations: 42
     title: 'MIDI2vec: Learning MIDI embeddings for reliable prediction of symbolic music metadata'
     year: '2022'
   IOqo_BwAAAAJ:buQ7SEKw-1sC:
@@ -821,6 +821,10 @@ papers:
     citations: 0
     title: 'From Flat Lists to Taxonomies: Bottom-up Concept Scheme Generation in Linked Statistical Data Bottom-up Construction of Concept Schemes'
     year: '2014'
+  IOqo_BwAAAAJ:eGYfIraVYiQC:
+    citations: 0
+    title: 'TP-ONT: An Ontology for Enhanced Reasoning in AI Task Planning via Atomic Decomposition'
+    year: '2026'
   IOqo_BwAAAAJ:eMMeJKvmdy0C:
     citations: 0
     title: 'Online Mediation Consumer Tools: MediWeb and MediApp'
@@ -834,7 +838,7 @@ papers:
     title: Non-Temporal Orderings as Proxies for Extensional Concept Drift
     year: '2013'
   IOqo_BwAAAAJ:e_rmSamDkqQC:
-    citations: 216
+    citations: 219
     title: 'Semantic technologies for historical research: A survey'
     year: '2015'
   IOqo_BwAAAAJ:edDO8Oi4QzsC:
@@ -890,7 +894,7 @@ papers:
     title: Digital Humanities on the Semantic Web
     year: '2017'
   IOqo_BwAAAAJ:i2xiXl-TujoC:
-    citations: 60
+    citations: 62
     title: 'Nanopublications: a growing resource of provenance-centric scientific linked data'
     year: '2018'
   IOqo_BwAAAAJ:ipzZ9siozwsC:
@@ -906,7 +910,7 @@ papers:
     title: Improving ontology requirements engineering with ontochat and participatory prompting
     year: '2024'
   IOqo_BwAAAAJ:jFemdcug13IC:
-    citations: 6
+    citations: 7
     title: Towards explainable automated knowledge engineering with human-in-the-loop
     year: '2025'
   IOqo_BwAAAAJ:jL-93Qbq4QoC:
@@ -958,7 +962,7 @@ papers:
     title: An ontology model for narrative image annotation in the field of cultural heritage
     year: '2017'
   IOqo_BwAAAAJ:kzcSZmkxUKAC:
-    citations: 2
+    citations: 3
     title: 'Knowml: Improving generalization of ML-NIDS with attack knowledge graphs'
     year: '2026'
   IOqo_BwAAAAJ:kzcrU_BdoSEC:
@@ -1050,7 +1054,7 @@ papers:
     title: 'Decomplexifying the network pipeline: a tool for RDF/Wikidata to network analysis'
     year: '2020'
   IOqo_BwAAAAJ:raTqNPD5sRQC:
-    citations: 9
+    citations: 10
     title: Schema generation for large knowledge graphs using large language models
     year: '2025'
   IOqo_BwAAAAJ:rbm3iO8VlycC:
@@ -1126,7 +1130,7 @@ papers:
     title: WYSIWYQ-What You See Is What You Query.
     year: '2017'
   IOqo_BwAAAAJ:ubry08Y2EpUC:
-    citations: 17
+    citations: 18
     title: 'The harmonic memory: a knowledge graph of harmonic patterns as a trustworthy framework for computational creativity'
     year: '2023'
   IOqo_BwAAAAJ:uc_IGeMz5qoC:
@@ -1138,11 +1142,11 @@ papers:
     title: 'Knowledge Engineering and Knowledge Management: 20th International Conference, EKAW 2016, Bologna, Italy, November 19-23, 2016, Proceedings'
     year: '2016'
   IOqo_BwAAAAJ:v1_lew4L6wgC:
-    citations: 38
+    citations: 40
     title: 'Choco: a chord corpus and a data transformation workflow for musical harmony knowledge graphs'
     year: '2023'
   IOqo_BwAAAAJ:v6i8RKmR8ToC:
-    citations: 0
+    citations: 1
     title: When Can Planning Benefit from Common-Sense Knowledge?
     year: '2026'
   IOqo_BwAAAAJ:vDZJ-YLwNdEC:
@@ -1150,11 +1154,11 @@ papers:
     title: Accessing Knowledge Graphs Programmatically
     year: '2022'
   IOqo_BwAAAAJ:w1MjKQ0l0TYC:
-    citations: 15
+    citations: 17
     title: 'Towards responsible AI Music: An investigation of trustworthy features for creative systems'
     year: '2025'
   IOqo_BwAAAAJ:wE-fMHVdjMkC:
-    citations: 24
+    citations: 27
     title: 'MLSea: A semantic layer for discoverable machine learning'
     year: '2024'
   IOqo_BwAAAAJ:wKETBy42zhYC:
@@ -1178,7 +1182,7 @@ papers:
     title: "Retracing hotbeds of the 1918\u201319 influenza pandemic. Spatial differences in seasonal excess mortality in The Netherlands"
     year: '2021'
   IOqo_BwAAAAJ:yMeIxYmEMEAC:
-    citations: 6
+    citations: 7
     title: 'Web data APIS for knowledge graphs: easing access to semantic data for application developers'
     year: '2021'
   IOqo_BwAAAAJ:yqoGN6RLRZoC:
