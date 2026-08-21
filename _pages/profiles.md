@@ -119,10 +119,9 @@ nav_order: 7
   <hr>
   <div class="members-grid">
  
-    <!-- Ioannis Reklos — swap avatar for: <img src="/assets/img/team/ioannis-reklos.jpg" alt="Ioannis Reklos"> -->
     <div class="member-card">
       <div class="photo-wrap">
-        <div class="avatar" style="background:#EEEDFE; color:#3C3489;">IR</div>
+        <img src="/assets/img/team/ioannis-reklos.jpg" alt="Ioannis Reklos">
       </div>
       <p class="name">Ioannis Reklos</p>
       <p class="role">PhD student</p>
