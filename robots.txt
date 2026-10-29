@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://albertmeronyo.github.io/sitemap.xml
+Sitemap: https://www.albertmeronyo.org/sitemap.xml
