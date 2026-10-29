@@ -8,7 +8,8 @@ middle_name:
 last_name: Meroño Peñuela
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Albert Meroño Peñuela's academic website.
+  Albert Meroño-Peñuela, Associate Professor at King's College London.
+  Research on knowledge graphs, LLMs, semantics and digital humanities.
 footer_text:
 keywords: knowledge graphs, multimodality, digital humanities # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -59,9 +60,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: https://www.albertmeronyo.org/assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
