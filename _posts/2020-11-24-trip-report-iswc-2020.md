@@ -62,7 +62,7 @@ Of course, this is not to say that programming _for_ the Semantic Web and provid
 hdtCat rdf1.hdt rdf2.hdt > hdtJoin.hdt
 ```
 
- [SPARQAL](https://arxiv.org/pdf/2004.01816.pdf) is an analytics recursive extension for SPARQL similar to TigerGraph GSQL and LD-Script. More on the knowledge graph access side, [Daniel Garijo et al. presented OBA](https://arxiv.org/abs/2007.09206), a really neat way of producing more RESTful OpenAPI specifications by mapping ontologies to object schemas. It was really cool to see this using components of our very [grlc](/assets/pdf/SALAD2016_paper_4.pdf). I thought these were all really interesting approaches that showed a caring community for its tools and users.
+[SPARQAL](https://arxiv.org/pdf/2004.01816.pdf) is an analytics recursive extension for SPARQL similar to TigerGraph GSQL and LD-Script. More on the knowledge graph access side, [Daniel Garijo et al. presented OBA](https://arxiv.org/abs/2007.09206), a really neat way of producing more RESTful OpenAPI specifications by mapping ontologies to object schemas. It was really cool to see this using components of our very [grlc](/assets/pdf/SALAD2016_paper_4.pdf). I thought these were all really interesting approaches that showed a caring community for its tools and users.
 
 #### Hybrid Knowledge Graph ecosystems
 

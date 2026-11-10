@@ -8,7 +8,6 @@ categories: cedar project-management
 thumbnail: assets/img/cedar_300x300.jpg
 ---
 
-
 [![cedar_300x300](/assets/img/cedar_300x300.jpg)](/assets/img/cedar_300x300.jpg)
 
 Currently, Europe is confronted with industrial restructuring, migration, an ageing population and financial crisis in a world of accelerated change. Learning from (social-economic) history helps to understand the inter-relation between macro-economic change and individual lifestyles, policy regimes, labour markets, communities and national wealth. However, sources of historical information about the lives of individuals, communities, and nations are still scattered.

@@ -6,20 +6,21 @@ description: Members of the KCL Knowledge Graphs Lab under my supervision
 nav: true
 nav_order: 7
 ---
+
 <!--
   LAB MEMBERS GRID
   ================
   To add a photo for any member, replace the inner <div class="avatar ..."> block
   with a plain <img> tag, e.g.:
- 
+
     <img src="/assets/img/team/bohui-zhang.jpg" alt="Bohui Zhang">
- 
+
   Square-crop your photos before adding them — any resolution works, CSS handles sizing.
   Suggested path: /assets/img/team/<firstname-lastname>.jpg
 -->
- 
+
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
- 
+
 <style>
   .lab-members {
     font-family: Roboto, sans-serif;
@@ -112,13 +113,13 @@ nav_order: 7
     transition: color 0.15s ease;
   }
 </style>
- 
+
 <div class="lab-members">
- 
+
   <h2>Current</h2>
   <hr>
   <div class="members-grid">
- 
+
     <div class="member-card">
       <div class="photo-wrap">
         <img src="/assets/img/team/ioannis-reklos.jpg" alt="Ioannis Reklos">
@@ -126,7 +127,7 @@ nav_order: 7
       <p class="name">Ioannis Reklos</p>
       <p class="role">PhD student</p>
     </div>
- 
+
     <!-- Chiara di Bonaventura — swap for: <img src="/assets/img/team/chiara-di-bonaventura.jpg" alt="Chiara di Bonaventura"> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -135,7 +136,7 @@ nav_order: 7
       <p class="name">Chiara di Bonaventura</p>
       <p class="role">PhD student</p>
     </div>
- 
+
     <!-- Michelle Nwachukwu — swap for: <img src="/assets/img/team/michelle-nwachukwu.jpg" alt="Michelle Nwachukwu"> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -144,7 +145,7 @@ nav_order: 7
       <p class="name">Michelle Nwachukwu</p>
       <p class="role">PhD student</p>
     </div>
- 
+
     <div class="member-card">
       <div class="photo-wrap">
         <img src="/assets/img/team/katharine-sparks.jpg" alt="Katharine Sparks">
@@ -152,16 +153,16 @@ nav_order: 7
       <p class="name">Katharine Sparks</p>
       <p class="role">PhD student</p>
     </div>
- 
+
     <!-- Bohui Zhang — swap for: <img src="/assets/img/team/bohui-zhang.jpg" alt="Bohui Zhang"> -->
     <div class="member-card">
       <div class="photo-wrap">
-        <img src="/assets/img/team/bohui-zhang.webp" alt="Bohui Zhang"> 
+        <img src="/assets/img/team/bohui-zhang.webp" alt="Bohui Zhang">
       </div>
       <p class="name">Bohui Zhang</p>
       <p class="role">PhD student</p>
     </div>
- 
+
     <!-- Yihang Zhao — swap for: <img src="/assets/img/team/yihang-zhao.jpg" alt="Yihang Zhao"> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -170,7 +171,7 @@ nav_order: 7
       <p class="name">Yihang Zhao</p>
       <p class="role">PhD student</p>
     </div>
- 
+
     <!-- Arunav Das — swap for: <img src="/assets/img/team/arunav-das.jpg" alt="Arunav Das"> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -179,16 +180,16 @@ nav_order: 7
       <p class="name">Arunav Das</p>
       <p class="role">PhD student</p>
     </div>
- 
+
     <!-- Maayan Armony — swap for: <img src="/assets/img/team/maayan-armony.jpg" alt="Maayan Armony"> -->
     <div class="member-card">
       <div class="photo-wrap">
-        <img src="/assets/img/team/maayan-armony.jpg" alt="Maayan Armony"> 
+        <img src="/assets/img/team/maayan-armony.jpg" alt="Maayan Armony">
       </div>
       <p class="name">Maayan Armony</p>
       <p class="role">PhD student</p>
     </div>
- 
+
     <!-- Shuyin Ouyang — swap for: <img src="/assets/img/team/shuyin-ouyang.jpg" alt="Shuyin Ouyang"> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -197,13 +198,13 @@ nav_order: 7
       <p class="name">Shuyin Ouyang</p>
       <p class="role">PhD student</p>
     </div>
- 
+
   </div><!-- /.members-grid -->
- 
+
   <h2>Previous</h2>
   <hr>
   <div class="members-grid previous">
- 
+
     <!-- Xin Fan Guo — swap for: <div class="avatar" style="background:#EEEDFE; color:#3C3489;">XG</div> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -212,7 +213,7 @@ nav_order: 7
       <p class="name">Xin Fan Guo</p>
       <p class="role">PhD student (now at Imperial College London)</p>
     </div>
- 
+
     <!-- Nitisha Jain — swap for: <div class="avatar" style="background:#E1F5EE; color:#085041;">NJ</div> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -221,7 +222,7 @@ nav_order: 7
       <p class="name">Nitisha Jain</p>
       <p class="role">Research Associate (now a LASR Fellow)</p>
     </div>
- 
+
     <!-- Jongmo Kim — swap for: <div class="avatar" style="background:#FAECE7; color:#712B13;">JK</div> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -230,7 +231,7 @@ nav_order: 7
       <p class="name">Jongmo Kim</p>
       <p class="role">Research Associate</p>
     </div>
- 
+
     <!-- Jacopo de Berardinis — swap for: <div class="avatar" style="background:#FBEAF0; color:#72243E;">JB</div> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -239,7 +240,7 @@ nav_order: 7
       <p class="name">Jacopo de Berardinis</p>
       <p class="role">Research Associate (now Lecturer at University of Liverpool)</p>
     </div>
- 
+
     <!-- Elisavet Koutsiana — swap for: <div class="avatar" style="background:#E6F1FB; color:#0C447C;">EK</div> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -248,7 +249,7 @@ nav_order: 7
       <p class="name">Elisavet Koutsiana</p>
       <p class="role">PhD student (now at EY Greece)</p>
     </div>
- 
+
     <!-- David Abián — swap for: <div class="avatar" style="background:#EAF3DE; color:#27500A;">DA</div> -->
     <div class="member-card">
       <div class="photo-wrap">
@@ -257,16 +258,16 @@ nav_order: 7
       <p class="name">David Abián</p>
       <p class="role">PhD student</p>
     </div>
- 
+
     <!-- Ruud Skipper — swap for: <div class="avatar" style="background:#FAEEDA; color:#633806;">RS</div> -->
     <div class="member-card">
-      <div class="photo-wrap"> 
+      <div class="photo-wrap">
         <img src="/assets/img/team/ruud-skipper.jpg" alt="Ruud Skipper">
       </div>
       <p class="name">Ruud Skipper</p>
       <p class="role">PhD student</p>
     </div>
- 
+
   </div><!-- /.members-grid.previous -->
- 
+
 </div><!-- /.lab-members -->

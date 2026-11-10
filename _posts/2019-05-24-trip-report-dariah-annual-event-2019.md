@@ -22,7 +22,7 @@ The poster session was [lots of fun](https://twitter.com/B_Polonistyczny/status/
 
 In the paper lightning talks I particularly liked works on open science workflows (next to other initiatives like the [SemSci workshop series](https://semsci.github.io/SemSci2018/) and [W3C PROV](https://www.w3.org/TR/prov-primer/) it is nice to see this community thinking about that too), and the work by my previous colleagues at [DANS](http://dans.knaw.nl/) on sustainability as a people-based and non-static process. Paper sessions were really interesting but too many numerous to enumerate here. I presented work on [FAIR principles on MIDI Linked Data](https://docs.google.com/presentation/d/1mgkewr-K-4rf6ln2fSPmqYpsqBCB1s7BW_lTqwqLkSQ/edit?usp=sharing), and was really impressed by the work Daga et al. have put into the [Listening Experience Database (LED) ](https://led.kmi.open.ac.uk/)bringing narratives, music and history together -- great topic!
 
-![](/assets/img/20190516_145851-1024x768.jpg) 
+![](/assets/img/20190516_145851-1024x768.jpg)
 
 ![](/assets/img/20190516_151129-1024x768.jpg)
 
