@@ -145,10 +145,9 @@ nav_order: 7
       <p class="role">PhD student</p>
     </div>
  
-    <!-- Katharine Sparks — swap for: <img src="/assets/img/team/katharine-sparks.jpg" alt="Katharine Sparks"> -->
     <div class="member-card">
       <div class="photo-wrap">
-        <div class="avatar" style="background:#FBEAF0; color:#72243E;">KS</div>
+        <img src="/assets/img/team/katharine-sparks.jpg" alt="Katharine Sparks">
       </div>
       <p class="name">Katharine Sparks</p>
       <p class="role">PhD student</p>
