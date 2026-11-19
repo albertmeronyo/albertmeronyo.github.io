@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: Members of the KCL Knowledge Graphs Lab under my supervision
 nav: true
-nav_order: 7
+nav_order: 1
 ---
 
 <!--

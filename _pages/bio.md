@@ -4,7 +4,7 @@ permalink: /bio/
 title: Bio
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 I am a Lecturer in Computer Science and Knowledge Engineering at King’s College London, United Kingdom. I am a member of the <a href="https://www.kcl.ac.uk/research/dai">Distributed Artificial Intelligence</a> group.
