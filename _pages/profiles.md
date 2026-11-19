@@ -93,6 +93,14 @@ nav_order: 1
     margin: 0 0 2px;
   }
  
+  .member-card .name a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .member-card .name a:hover {
+    text-decoration: underline;
+  }
+
   .member-card .role {
     font-family: Roboto, sans-serif;
     font-size: 14px;
@@ -124,7 +132,7 @@ nav_order: 1
       <div class="photo-wrap">
         <img src="/assets/img/team/ioannis-reklos.jpg" alt="Ioannis Reklos">
       </div>
-      <p class="name">Ioannis Reklos</p>
+      <p class="name"><a href="https://www.kcl.ac.uk/people/ioannis-reklos" target="_blank" rel="noopener">Ioannis Reklos</a></p>
       <p class="role">PhD student</p>
     </div>
 
@@ -133,7 +141,7 @@ nav_order: 1
       <div class="photo-wrap">
         <img src="/assets/img/team/chiara-di-bonaventura.jpg" alt="Chiara di Bonaventura">
       </div>
-      <p class="name">Chiara di Bonaventura</p>
+      <p class="name"><a href="https://www.kcl.ac.uk/people/chiara-di-bonaventura-1" target="_blank" rel="noopener">Chiara di Bonaventura</a></p>
       <p class="role">PhD student</p>
     </div>
 
@@ -142,7 +150,7 @@ nav_order: 1
       <div class="photo-wrap">
         <img src="/assets/img/team/michelle-nwachukwu.jpg" alt="Michelle Nwachukwu">
       </div>
-      <p class="name">Michelle Nwachukwu</p>
+      <p class="name"><a href="https://safeandtrustedai.org/person/michelle-nwachukwu/" target="_blank" rel="noopener">Michelle Nwachukwu</a></p>
       <p class="role">PhD student</p>
     </div>
 
@@ -150,7 +158,7 @@ nav_order: 1
       <div class="photo-wrap">
         <img src="/assets/img/team/katharine-sparks.jpg" alt="Katharine Sparks">
       </div>
-      <p class="name">Katharine Sparks</p>
+      <p class="name"><a href="https://safeandtrustedai.org/person/katharine-sparks/" target="_blank" rel="noopener">Katharine Sparks</a></p>
       <p class="role">PhD student</p>
     </div>
 
@@ -159,7 +167,7 @@ nav_order: 1
       <div class="photo-wrap">
         <img src="/assets/img/team/bohui-zhang.webp" alt="Bohui Zhang">
       </div>
-      <p class="name">Bohui Zhang</p>
+      <p class="name"><a href="https://bohuizhang.github.io/" target="_blank" rel="noopener">Bohui Zhang</a></p>
       <p class="role">PhD student</p>
     </div>
 
@@ -168,7 +176,7 @@ nav_order: 1
       <div class="photo-wrap">
         <img src="/assets/img/team/yihang-zhao.webp" alt="Yihang Zhao">
       </div>
-      <p class="name">Yihang Zhao</p>
+      <p class="name"><a href="https://www.yihangzhao.com/" target="_blank" rel="noopener">Yihang Zhao</a></p>
       <p class="role">PhD student</p>
     </div>
 
@@ -177,7 +185,7 @@ nav_order: 1
       <div class="photo-wrap">
         <img src="/assets/img/team/arunav-das.jpg" alt="Arunav Das">
       </div>
-      <p class="name">Arunav Das</p>
+      <p class="name"><a href="https://www.kcl.ac.uk/people/arunav-das" target="_blank" rel="noopener">Arunav Das</a></p>
       <p class="role">PhD student</p>
     </div>
 
@@ -186,7 +194,7 @@ nav_order: 1
       <div class="photo-wrap">
         <img src="/assets/img/team/maayan-armony.jpg" alt="Maayan Armony">
       </div>
-      <p class="name">Maayan Armony</p>
+      <p class="name"><a href="https://www.kcl.ac.uk/people/maayan-armony" target="_blank" rel="noopener">Maayan Armony</a></p>
       <p class="role">PhD student</p>
     </div>
 
@@ -195,7 +203,7 @@ nav_order: 1
       <div class="photo-wrap">
         <img src="/assets/img/team/shuyin-ouyang.jpg" alt="Shuyin Ouyang">
       </div>
-      <p class="name">Shuyin Ouyang</p>
+      <p class="name"><a href="https://sites.google.com/view/shuyinouyang" target="_blank" rel="noopener">Shuyin Ouyang</a></p>
       <p class="role">PhD student</p>
     </div>
 
