@@ -207,6 +207,24 @@ nav_order: 1
       <p class="role">PhD student</p>
     </div>
 
+    <!-- Yang Chen — swap avatar for: <img src="/assets/img/team/yang-chen.jpg" alt="Yang Chen"> -->
+    <div class="member-card">
+      <div class="photo-wrap">
+        <div class="avatar" style="background:#E1F5EE; color:#085041;">YC</div>
+      </div>
+      <p class="name">Yang Chen</p>
+      <p class="role">PhD student</p>
+    </div>
+
+    <!-- Nina Peric — swap avatar for: <img src="/assets/img/team/nina-peric.jpg" alt="Nina Peric"> -->
+    <div class="member-card">
+      <div class="photo-wrap">
+        <div class="avatar" style="background:#FAECE7; color:#712B13;">NP</div>
+      </div>
+      <p class="name">Nina Peric</p>
+      <p class="role">PhD student</p>
+    </div>
+
   </div><!-- /.members-grid -->
 
   <h2>Previous</h2>
